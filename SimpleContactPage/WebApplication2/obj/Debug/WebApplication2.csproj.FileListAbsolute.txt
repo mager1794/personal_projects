@@ -1,0 +1,12 @@
+c:\users\mager\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+c:\users\mager\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\mager\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\mager\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\mager\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Mager\Documents\Visual Studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Cody\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Cody\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Cody\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Cody\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
